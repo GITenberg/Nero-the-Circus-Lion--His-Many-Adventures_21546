@@ -1,0 +1,32 @@
+_repo: Nero-the-Circus-Lion--His-Many-Adventures_21546
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Rogers, Walter S.
+    birthdate: 1871
+    gutenberg_agent_id: '7671'
+    url: http://www.gutenberg.org/2009/agents/7671
+covers:
+- cover_type: archival
+  image_path: 21546-h/images/coverspines.png
+creator:
+  author:
+    agent_name: Barnum, Richard
+    gutenberg_agent_id: '3820'
+    url: http://www.gutenberg.org/2009/agents/3820
+description: ''
+gutenberg_issued: '2007-05-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21546'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Circus -- Juvenile fiction'
+- !lcsh 'Lion -- Juvenile fiction'
+- !lcsh 'Animals -- Juvenile fiction'
+- !lcc 'PZ'
+title: 'Nero, the Circus Lion: His Many Adventures'
+url: http://www.gutenberg.org/ebooks/21546
